@@ -1,5 +1,5 @@
 ## Introduction
-This script was made so can name, put a description and init it through the command line automatically. <br/>
+This script is made to name, put a description, init the folder, make a new branch (main) and push everything on Git Hub through the command line automatically. <br/>
 It makes me save a lot of times and could make you save times too! <br/>
 
 ## Installation
