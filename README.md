@@ -13,9 +13,7 @@ Modify those <br/>
 
 ```bash
 USERNAME="" # Put your username inside the ""
-
 PASSWORD="" # Put your password inside the ""
-
 TOKEN="" # Put your token inside the "" 
 ``` 
 <br/>
