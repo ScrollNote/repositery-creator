@@ -21,4 +21,4 @@ Discord ➔ ~/sofia#6666 <br/>
 
 ## Bye
 Hope y'all enjoy the script. <br/>
-Thank you. blush
+Thank you. :blush:
