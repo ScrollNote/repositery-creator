@@ -12,7 +12,9 @@ Open create_repo.sh and you will see that I commented certains lines. <br/>
 Modify those <br/>
 `
 USERNAME="" # Put your username inside the ""
+
 PASSWORD="" # Put your password inside the ""
+
 TOKEN="" # Put your token inside the ""` <br/>
 
 To run the script do <br/>
