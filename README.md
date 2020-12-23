@@ -1,5 +1,5 @@
 ## Introduction
-This script is made to name, put a description, init the folder, make a new branch (main) and push everything on Git Hub through the command line automatically. <br/>
+This is a script to create a repositery, name it, put a description, init the folder locally, add a new branch (main) and push it to Git Hub through the command line automatically.
 It makes me save a lot of times and could make you save times too! <br/>
 
 ## Installation
