@@ -7,6 +7,14 @@ First of all, clone the repositery by doing <br/>
 `git clone https://github.com/Soofiaaa/repositery-creator.git` <br/>
 After go in the directory of the script and run the following command. <br/>
 `chmod +x create_repo.sh` <br/>
+After that, you will need to change certain value in the create_repo.sh. <br/>
+Open create_repo.sh and you will see that I commented certains lines. <br/>
+Modify those <br/>
+`
+USERNAME="" # Put your username inside the ""
+PASSWORD="" # Put your password inside the ""
+TOKEN="" # Put your token inside the ""` <br/>
+
 To run the script do <br/>
 `./the_directory/create_repo`
 
