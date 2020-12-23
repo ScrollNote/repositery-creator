@@ -18,7 +18,9 @@ TOKEN="" # Put your token inside the ""
 ``` 
 <br/>
 To run the script do <br/>
-`./the_directory/create_repo`
+``
+./the_directory/create_repo
+``
 
 ## Screenshot
 ![screenshot](https://github.com/Soofiaaa/repositery-creator/blob/main/Screenshot/Screenshot.png) <br/>
