@@ -5,7 +5,7 @@ It makes me save a lot of times and could make you save times too! <br/>
 ## Installation
 First of all, clone the repositery by doing <br/>
 `git clone https://github.com/Soofiaaa/repositery-creator.git` <br/>
-After go in the directory of the script and run the following command.
+After go in the directory of the script and run the following command. <br/>
 `chmod +x create_repo.sh` <br/>
 To run the script do <br/>
 `./the_directory/create_repo`
