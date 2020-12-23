@@ -15,12 +15,9 @@ Modify those <br/>
 USERNAME="" # Put your username inside the ""
 PASSWORD="" # Put your password inside the ""
 TOKEN="" # Put your token inside the "" 
-``` 
-<br/>
+```
 To run the script do <br/>
-``
-./the_directory/create_repo
-``
+`./the_directory/create_repo.sh`
 
 ## Screenshot
 ![screenshot](https://github.com/Soofiaaa/repositery-creator/blob/main/Screenshot/Screenshot.png) <br/>
