@@ -26,7 +26,7 @@ To run the script do <br/>
 
 ## Question
 If anybody has questions or suggestions about the program, feel free to contact me. <br/>
-Discord ➔ ~/sofia#6666 <br/>
+Discord ➔ ~/sofia#4047 <br/>
 
 ## Bye
 Hope y'all enjoy the script. <br/>
